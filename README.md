@@ -1,9 +1,6 @@
-# EDA-of-Banking-Finance-
-
+# Exploratory Data Analysis (EDA) of Banking Finance Data
 * Dataset-[Click to view dataset](https://www.kaggle.com/datasets/nitindatta/finance-data)
 * ![GitHub License](https://img.shields.io/github/license/sanzzu-13/EDA-of-Banking-Finance-)
-
-# Exploratory Data Analysis (EDA) of Banking Finance Data
 
 This repository contains the code and documentation for performing Exploratory Data Analysis (EDA) on banking finance data. The analysis aims to gain insights into various aspects of the banking sector, such as customer behavior, transaction patterns, and financial trends.
 
